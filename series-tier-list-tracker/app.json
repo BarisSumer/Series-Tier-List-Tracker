@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Series Tier List & Tracker",
+    "slug": "series-tier-list-tracker",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.seriestierlist.app"
+    },
+    "android": {
+      "package": "com.seriestierlist.app"
+    }
+  }
+}
